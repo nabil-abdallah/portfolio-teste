@@ -1,0 +1,45 @@
+#logo{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+
+#div_formulaire{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+body{
+	background-color: #777;
+}
+/*page d'inscriptipon*/
+
+#div_inscription{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: red;
+
+}
+#inscription{
+background-color: #777
+
+}
+img{
+	size: 20px
+}
+
+/*mot de passe oublier */
+
+.mdp{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.wdp{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
